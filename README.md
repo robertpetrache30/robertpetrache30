@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Robert
 
-<!--
-**robertpetrache30/robertpetrache30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile.
 
-Here are some ideas to get you started:
+I'm learning programming and building practical projects to improve my skills step by step. I'm interested in software, automation, and web development, and I enjoy creating things that are useful and easy to use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- I’m currently learning and growing as a developer
+- I like practical projects that help me improve through real work
+- I’m interested in software, automation, and web technologies
+- I’m focused on consistency, progress, and continuous learning
+
+## Currently Learning
+- Git and GitHub
+- Programming fundamentals
+- Web development
+- Automation tools
+
+## Goals
+- Build projects I’m proud of
+- Improve my problem-solving skills
+- Grow into a strong and reliable developer
+- Keep learning something new every day
+
+## Tech Interests
+- Git
+- GitHub
+- HTML
+- CSS
+- JavaScript
+- Automation
+
+## Connect With Me
+- GitHub: [robertpetrache30](https://github.com/robertpetrache30)
+
+---
+
+Thanks for visiting my profile.
